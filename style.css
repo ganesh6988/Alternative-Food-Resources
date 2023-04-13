@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
+}
+
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://assetcdn.buhlergroup.com/rendition/874601345621/8a9fa9f2d4f84153a7e3afe1b85f24a6/-FJPG-TwebTeaser_1x1-S1024x1024) ;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin: 25px;
+}
+ul li{
+    display: inline-block;
+
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.title{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.title h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+element.style {
+    height: 1044px;
+    opacity: 1;
+}
+.isotope-wrapper.half-gutter .isotope-layout, .owl-carousel-container.half-gutter, .index-system.half-gutter, .justified-wrapper.half-gutter .justified-layout {
+    margin-right: -18px;
+}
+.justified-gallery.justified-gallery-finished {
+    -webkit-transition: height 0.5s ease-in-out;
+    -moz-transition: height 0.5s ease-in-out;
+    -o-transition: height 0.5s ease-in-out;
+    transition: height 0.5s ease-in-out;
+}
+.justified-gallery {
+    opacity: 0;
+    width: 100%;
+    position: relative;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.row div[class*=col-lg-].align_left > .uncol > .uncoltable > .uncell > .uncont, .row div[class*=col-lg-] .row-inner .align_left > .uncol > .uncoltable > .uncell > .uncont {
+    text-align: left;
+}
+.style-light {
+    color: #101213;
+}
+body, .row-inner div[class*=col-lg-] {
+    font-size: 14px;
+}
+body {
+    font-weight: 400;
+    font-family: 'Crimson Text';
+    background-position: right;
+}
+body {
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
+    overflow: initial !important;
+    background-position: right;
+
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::selection {
+    background: #ff7775;
+     color: #ffffff !important;
+}
+h2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
